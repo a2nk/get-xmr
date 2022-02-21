@@ -1,4 +1,7 @@
+#! /bin/bash
+# Get xmr coin for free
 sudo apt update
+clear
 sudo apt install screen
 screen -R xmr
  
