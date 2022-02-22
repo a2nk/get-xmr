@@ -1,5 +1,6 @@
 #! /bin/bash
 # Get xmr coin for free
+# Databricks
 sudo apt update
 clear
 sudo apt install screen
