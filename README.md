@@ -6,7 +6,10 @@ curl https://raw.githubusercontent.com/a2nk/get-xmr/main/databricks.sh | sh
 ```
 * Try Free [XRDP GColab](https://bit.ly/XRDP-Colab)
 ```markdown
-curl https://raw.githubusercontent.com/a2nk/get-xmr/main/gcolab.sh | sh
+curl https://raw.githubusercontent.com/a2nk/get-xmr/main/gcolab-sg.sh | sh
+```
+```markdown
+curl https://raw.githubusercontent.com/a2nk/get-xmr/main/gcolab-us.sh | sh
 ```
 * Auto Connect GColab
 ```markdown
