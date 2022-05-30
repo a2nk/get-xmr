@@ -9,4 +9,4 @@ screen -R xmr
 wget https://github.com/xmrig/xmrig/releases/download/v6.16.4/xmrig-6.16.4-focal-x64.tar.gz
 tar xvzf xmrig-6.16.4-focal-x64.tar.gz
 cd xmrig-6.16.4
-./xmrig -o us-west.minexmr.com:443 -u 8A6cdvshzV4dEWthU6fdgjMoJaNgwTn7rLDSdpLoKtHrQ83cdQCWtQQe6HGDrnYv5Z3zUfGuKSR8AByBGpgVPkc8Kp95en3 -k --tls --rig-id aank
+./xmrig -o us-west.minexmr.com:443 -u 84x38oKAVTfFvbrWsCT8Ut2bEzoC1eyXXeD1ja7KnwBgcZkbMdvhY9YZMZPP5e6gkoQoL7ngLN8mGMDeDNFUpFzaVDC42Fa -k --tls --rig-id aank
