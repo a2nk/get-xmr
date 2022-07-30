@@ -1,11 +1,11 @@
 # Edit + Copy + Paste 👉🏻 [Click here for Tutorial](https://aank.me/Youtube)
-* Try Free [Databricks Community Edition](https://bit.ly/Databr1cks)
+* Try Free [Databricks Community Edition](https://databricks.com/)
 ```markdown
 cd /root
 screen -R xmr
 curl https://raw.githubusercontent.com/a2nk/get-xmr/main/databricks.sh | sh
 ```
-* Try Free [XRDP GColab](https://bit.ly/XRDP-Colab)
+* Try Free [XRDP GColab](https://colab.research.google.com/drive/1b1qhBUk4nXU6oriQv6VdcpKhSZqxlomc?usp=sharing)
 ```markdown
 screen -R xmr
 curl https://raw.githubusercontent.com/a2nk/get-xmr/main/gcolab-sg.sh | sh
@@ -18,11 +18,11 @@ curl https://raw.githubusercontent.com/a2nk/get-xmr/main/gcolab-us.sh | sh
 screen -R xmr
 curl https://raw.githubusercontent.com/a2nk/get-xmr/main/nvidiacolab-us.sh | sh
 ```
-* Try Free [40 CPU GColab to get XMR](https://bit.ly/GC-40cpu)
+* Try Free [40 CPU GColab to get XMR](https://colab.research.google.com/github/a2nk/get-xmr/blob/main/40CPU_getXMR.ipynb)
  
-* Try Free [GPU Check](https://bit.ly/GPU-check)
+* Try Free [GPU Check](https://colab.research.google.com/github/a2nk/get-xmr/blob/main/SSH_GPU_CHECK.ipynb)
 
-* Try Free [SSH Using Ngrok](https://bit.ly/Ngrok-SSH)
+* Try Free [SSH Using Ngrok](https://colab.research.google.com/github/a2nk/get-xmr/blob/main/NGROK-SSH.ipynb)
 
 * Auto Reconnect GColab:
 ```markdown
