@@ -1,4 +1,4 @@
-# Edit + Copy + Paste 👉🏻 [Click here for Tutorial](https://aank.me/Youtube)
+# Edit + Copy + Paste 
 * Try Free [Databricks Community Edition](https://databricks.com/)
 ```markdown
 cd /root
